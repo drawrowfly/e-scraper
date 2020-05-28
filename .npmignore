@@ -1,0 +1,11 @@
+node_modules/
+coverage/
+src/
+
+
+.DS_Store
+.eslintrc.js
+tsconfig.json
+.gitignore
+.prettierrc.js
+test.ts
